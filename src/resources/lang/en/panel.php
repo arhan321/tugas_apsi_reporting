@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'site_title' => 'Mini siakad',
+    'site_title' => 'Mini siakad by Arhan',
 
 ];
